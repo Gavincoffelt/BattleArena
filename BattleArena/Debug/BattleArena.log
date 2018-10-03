@@ -1,0 +1,6 @@
+﻿  Functions.cpp
+  Main.cpp
+  Generating Code...
+c:\users\s189067\source\repos\battlearena\battlearena\functions.cpp(36): warning C4715: 'templarsRemaining': not all control paths return a value
+c:\users\s189067\source\repos\battlearena\battlearena\functions.cpp(28): warning C4715: 'assassinsRemaining': not all control paths return a value
+  BattleArena.vcxproj -> c:\users\s189067\source\repos\BattleArena\Debug\BattleArena.exe
